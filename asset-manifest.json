@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hrahim/static/css/main.53ed4aa8.css",
+    "main.js": "/hrahim/static/js/main.66d95f8a.js",
+    "static/js/453.3b4b1805.chunk.js": "/hrahim/static/js/453.3b4b1805.chunk.js",
+    "index.html": "/hrahim/index.html",
+    "main.53ed4aa8.css.map": "/hrahim/static/css/main.53ed4aa8.css.map",
+    "main.66d95f8a.js.map": "/hrahim/static/js/main.66d95f8a.js.map",
+    "453.3b4b1805.chunk.js.map": "/hrahim/static/js/453.3b4b1805.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53ed4aa8.css",
+    "static/js/main.66d95f8a.js"
+  ]
+}
