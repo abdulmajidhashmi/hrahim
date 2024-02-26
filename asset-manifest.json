@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/hrahim/static/css/main.53ed4aa8.css",
-    "main.js": "/hrahim/static/js/main.66d95f8a.js",
+    "main.css": "/hrahim/static/css/main.ac4dd6ec.css",
+    "main.js": "/hrahim/static/js/main.729c3f44.js",
     "static/js/453.3b4b1805.chunk.js": "/hrahim/static/js/453.3b4b1805.chunk.js",
+    "static/media/kimia.jpeg": "/hrahim/static/media/kimia.324cb1fed8fd5ba1270f.jpeg",
     "index.html": "/hrahim/index.html",
-    "main.53ed4aa8.css.map": "/hrahim/static/css/main.53ed4aa8.css.map",
-    "main.66d95f8a.js.map": "/hrahim/static/js/main.66d95f8a.js.map",
+    "main.ac4dd6ec.css.map": "/hrahim/static/css/main.ac4dd6ec.css.map",
+    "main.729c3f44.js.map": "/hrahim/static/js/main.729c3f44.js.map",
     "453.3b4b1805.chunk.js.map": "/hrahim/static/js/453.3b4b1805.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.53ed4aa8.css",
-    "static/js/main.66d95f8a.js"
+    "static/css/main.ac4dd6ec.css",
+    "static/js/main.729c3f44.js"
   ]
 }
