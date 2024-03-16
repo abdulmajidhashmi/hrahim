@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/hrahim/static/css/main.5a12b89e.css",
-    "main.js": "/hrahim/static/js/main.ff7f6489.js",
+    "main.css": "/hrahim/static/css/main.5f12b418.css",
+    "main.js": "/hrahim/static/js/main.05455045.js",
     "static/js/453.3b4b1805.chunk.js": "/hrahim/static/js/453.3b4b1805.chunk.js",
-    "static/media/page3.png": "/hrahim/static/media/page3.1fd7dfe0c99a0d2af8c0.png",
-    "static/media/page2.png": "/hrahim/static/media/page2.9f76d491b81d51b7f099.png",
-    "static/media/page4.png": "/hrahim/static/media/page4.83368351e74c91602767.png",
-    "static/media/page1.png": "/hrahim/static/media/page1.28cd6adf55973ec6a24b.png",
-    "static/media/page5.png": "/hrahim/static/media/page5.76fcf1c32889ece05a6a.png",
+    "static/media/page1.png": "/hrahim/static/media/page1.a1c536ade35ba8969759.png",
+    "static/media/page2.png": "/hrahim/static/media/page2.32591db98b4337c94bd8.png",
+    "static/media/page3.png": "/hrahim/static/media/page3.2dc900f5c07b9956a0d9.png",
+    "static/media/page4.png": "/hrahim/static/media/page4.b55bba6b902b30e6be4c.png",
+    "static/media/page5.png": "/hrahim/static/media/page5.58ad207d511949ad51eb.png",
     "static/media/kimia.jpeg": "/hrahim/static/media/kimia.324cb1fed8fd5ba1270f.jpeg",
     "index.html": "/hrahim/index.html",
-    "main.5a12b89e.css.map": "/hrahim/static/css/main.5a12b89e.css.map",
-    "main.ff7f6489.js.map": "/hrahim/static/js/main.ff7f6489.js.map",
+    "main.5f12b418.css.map": "/hrahim/static/css/main.5f12b418.css.map",
+    "main.05455045.js.map": "/hrahim/static/js/main.05455045.js.map",
     "453.3b4b1805.chunk.js.map": "/hrahim/static/js/453.3b4b1805.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a12b89e.css",
-    "static/js/main.ff7f6489.js"
+    "static/css/main.5f12b418.css",
+    "static/js/main.05455045.js"
   ]
 }
