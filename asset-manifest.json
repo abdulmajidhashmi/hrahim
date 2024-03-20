@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hrahim/static/css/main.6fbc6d80.css",
-    "main.js": "/hrahim/static/js/main.306800f6.js",
+    "main.css": "/hrahim/static/css/main.5bd00ee7.css",
+    "main.js": "/hrahim/static/js/main.60af4902.js",
     "static/js/453.3b4b1805.chunk.js": "/hrahim/static/js/453.3b4b1805.chunk.js",
     "static/media/page1.png": "/hrahim/static/media/page1.a1c536ade35ba8969759.png",
     "static/media/page2.png": "/hrahim/static/media/page2.32591db98b4337c94bd8.png",
@@ -10,12 +10,12 @@
     "static/media/page5.png": "/hrahim/static/media/page5.58ad207d511949ad51eb.png",
     "static/media/kimia.jpeg": "/hrahim/static/media/kimia.324cb1fed8fd5ba1270f.jpeg",
     "index.html": "/hrahim/index.html",
-    "main.6fbc6d80.css.map": "/hrahim/static/css/main.6fbc6d80.css.map",
-    "main.306800f6.js.map": "/hrahim/static/js/main.306800f6.js.map",
+    "main.5bd00ee7.css.map": "/hrahim/static/css/main.5bd00ee7.css.map",
+    "main.60af4902.js.map": "/hrahim/static/js/main.60af4902.js.map",
     "453.3b4b1805.chunk.js.map": "/hrahim/static/js/453.3b4b1805.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6fbc6d80.css",
-    "static/js/main.306800f6.js"
+    "static/css/main.5bd00ee7.css",
+    "static/js/main.60af4902.js"
   ]
 }
