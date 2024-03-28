@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hrahim/static/css/main.d40e57dc.css",
-    "main.js": "/hrahim/static/js/main.8c21f25a.js",
+    "main.css": "/hrahim/static/css/main.0baf13d0.css",
+    "main.js": "/hrahim/static/js/main.a0ba98b8.js",
     "static/js/453.3b4b1805.chunk.js": "/hrahim/static/js/453.3b4b1805.chunk.js",
     "static/media/page1.png": "/hrahim/static/media/page1.a1c536ade35ba8969759.png",
     "static/media/page2.png": "/hrahim/static/media/page2.32591db98b4337c94bd8.png",
@@ -9,14 +9,15 @@
     "static/media/page4.png": "/hrahim/static/media/page4.b55bba6b902b30e6be4c.png",
     "static/media/page5.png": "/hrahim/static/media/page5.58ad207d511949ad51eb.png",
     "static/media/kimia.jpeg": "/hrahim/static/media/kimia.324cb1fed8fd5ba1270f.jpeg",
+    "static/media/ProductSans-Regular.ttf": "/hrahim/static/media/ProductSans-Regular.2765c69613690b1b9c03.ttf",
     "static/media/sukkary.jpg": "/hrahim/static/media/sukkary.89c93bd3cff5b7fe480f.jpg",
     "index.html": "/hrahim/index.html",
-    "main.d40e57dc.css.map": "/hrahim/static/css/main.d40e57dc.css.map",
-    "main.8c21f25a.js.map": "/hrahim/static/js/main.8c21f25a.js.map",
+    "main.0baf13d0.css.map": "/hrahim/static/css/main.0baf13d0.css.map",
+    "main.a0ba98b8.js.map": "/hrahim/static/js/main.a0ba98b8.js.map",
     "453.3b4b1805.chunk.js.map": "/hrahim/static/js/453.3b4b1805.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d40e57dc.css",
-    "static/js/main.8c21f25a.js"
+    "static/css/main.0baf13d0.css",
+    "static/js/main.a0ba98b8.js"
   ]
 }
