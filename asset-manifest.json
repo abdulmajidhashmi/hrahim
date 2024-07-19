@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.e2a79494.css",
-    "main.js": "/static/js/main.434c0372.js",
-    "static/js/453.3b4b1805.chunk.js": "/static/js/453.3b4b1805.chunk.js",
-    "static/media/page3.png": "/static/media/page3.a0fa4b8ce4f2a702e5e0.png",
-    "static/media/page2.png": "/static/media/page2.ca8838dcc2f68ba52c05.png",
-    "static/media/page1.png": "/static/media/page1.6829e38493a11c58e20f.png",
-    "static/media/page4.png": "/static/media/page4.6fec0851037c185c6be0.png",
-    "static/media/kimia.jpeg": "/static/media/kimia.54c3e2eed0163b1cc8d0.jpeg",
-    "static/media/sukkary.jpg": "/static/media/sukkary.d5f3b8f283953eaf6e45.jpg",
-    "static/media/ProductSans-Regular.ttf": "/static/media/ProductSans-Regular.2765c69613690b1b9c03.ttf",
-    "index.html": "/index.html",
-    "main.e2a79494.css.map": "/static/css/main.e2a79494.css.map",
-    "main.434c0372.js.map": "/static/js/main.434c0372.js.map",
-    "453.3b4b1805.chunk.js.map": "/static/js/453.3b4b1805.chunk.js.map"
+    "main.css": "/hrahim/static/css/main.6eaa6661.css",
+    "main.js": "/hrahim/static/js/main.d0166798.js",
+    "static/js/453.3b4b1805.chunk.js": "/hrahim/static/js/453.3b4b1805.chunk.js",
+    "static/media/page3.png": "/hrahim/static/media/page3.a0fa4b8ce4f2a702e5e0.png",
+    "static/media/page2.png": "/hrahim/static/media/page2.ca8838dcc2f68ba52c05.png",
+    "static/media/page1.png": "/hrahim/static/media/page1.6829e38493a11c58e20f.png",
+    "static/media/page4.png": "/hrahim/static/media/page4.6fec0851037c185c6be0.png",
+    "static/media/kimia.jpeg": "/hrahim/static/media/kimia.54c3e2eed0163b1cc8d0.jpeg",
+    "static/media/sukkary.jpg": "/hrahim/static/media/sukkary.d5f3b8f283953eaf6e45.jpg",
+    "static/media/ProductSans-Regular.ttf": "/hrahim/static/media/ProductSans-Regular.2765c69613690b1b9c03.ttf",
+    "index.html": "/hrahim/index.html",
+    "main.6eaa6661.css.map": "/hrahim/static/css/main.6eaa6661.css.map",
+    "main.d0166798.js.map": "/hrahim/static/js/main.d0166798.js.map",
+    "453.3b4b1805.chunk.js.map": "/hrahim/static/js/453.3b4b1805.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2a79494.css",
-    "static/js/main.434c0372.js"
+    "static/css/main.6eaa6661.css",
+    "static/js/main.d0166798.js"
   ]
 }
