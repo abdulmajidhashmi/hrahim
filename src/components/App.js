@@ -89,7 +89,7 @@ const App = () => {
                         <AdminOrders/>
                         </>
                 }/>
-                <Route path="/" element={
+                <Route path="/hrahim" element={
                     <>
                         <Component />
                     </>
